@@ -1,0 +1,491 @@
+CREATE A 10-SECOND, 4K, ULTRA-PHOTOREALISTIC CINEMATIC MIXED-REALITY VFX VIDEO, 16:9, 60 FPS, using the uploaded reference image as the STRICT, UNCHANGING IDENTITY REFERENCE for the three Tamil men.
+
+SUBJECTS:
+
+Bulky Tamil man wearing a BLUE CHECKED SHIRT.
+
+Bulky Tamil man wearing a BLACK CHECKED SHIRT.
+
+Smart/normal Tamil man wearing a GREEN SHIRT.
+
+IDENTITY PRESERVATION IS ABSOLUTE: Preserve the exact faces, skin tone, hairstyle, body proportions, clothing, shirt colors, facial structure, age appearance, height relationship, body shape and positions from the reference. Do not morph, age, slim, enlarge, replace, or redesign any person. The blue-shirt man remains the same person and same position throughout. The black-checked-shirt man remains the same person and same position throughout. The green-shirt man remains the same person and same position throughout.
+
+0.0–2.5 SECONDS — NORMAL REAL-WORLD BEFORE STATE: Show all three men standing naturally in a realistic environment as ordinary photorealistic humans. NO spheres, NO vectors, NO particles, NO glowing effects, NO transparency. Clothing, skin and facial details must look completely natural. Camera remains stable and cinematic. This is the baseline BEFORE frame.
+
+2.5–5.5 SECONDS — CONTROLLED SPHERICAL POINT-GRID FORMATION: Very gradually begin converting the visible human bodies into dense three-dimensional spherical surface samples.
+
+The transformation must begin simultaneously but smoothly across the actual visible body surfaces. Do NOT make random vectors or spheres suddenly appear in isolated body parts.
+
+Thousands of small glossy spheres progressively form directly ON the existing geometry: head → face → neck → shoulders → chest → arms → hands → abdomen → legs → feet.
+
+The spheres must follow the real three-dimensional surface of each man's body and clothing. Skin-colored spheres follow exposed skin. Blue spheres follow the blue checked shirt. Black/dark spheres follow the black checked shirt. Green spheres follow the green shirt. Pants and shoes retain their corresponding colors.
+
+The original person must remain visually recognizable during the transition. No body morphing. No melting. No duplicate limbs. No floating particles.
+
+5.5–7.5 SECONDS — LOCAL VECTOR FIELD: Once the spherical surface is established, assign a small VECTOR to EVERY individual spherical point.
+
+Each sphere receives a thin directional vector originating exactly from that sphere and extending outward in the locally appropriate movement direction.
+
+Use: YELLOW = local lower/mid-magnitude vectors. RED = stronger/higher-magnitude vectors.
+
+Vectors must have clear arrowheads, visible direction, controlled thickness and physically coherent orientation.
+
+The vectors must NOT randomly point in every direction. They must represent a coherent velocity field associated with the person's movement.
+
+The spherical points remain shiny and three-dimensional. The men remain recognizable underneath the transparent point-grid representation.
+
+7.5–9.0 SECONDS — CENTER-OF-GRAVITY RESULTANT VECTOR: At the approximate CENTER OF MASS / CENTER OF GRAVITY of EACH man's body, create ONE clearly visible, significantly larger resultant velocity vector.
+
+The large vector must originate from the actual central body region, approximately around the torso/pelvic center of mass, NOT from the head, hands, feet, or an arbitrary screen position.
+
+The large vector must show: MAGNITUDE = vector length. DIRECTION = arrow orientation. It must visually summarize the overall velocity of that complete human body.
+
+Make the large resultant vector brighter and visually dominant while keeping the smaller vectors visible.
+
+The men become slightly transparent so the viewer can clearly see the spherical body structure and the large center-of-gravity vector through the body.
+
+9.0–10.0 SECONDS — FINAL COMPARISON HOLD: Hold a clean BEFORE → AFTER comparison composition.
+
+Show the original photorealistic appearance subtly visible behind/alongside the final transparent spherical reconstruction, creating an educational before-and-after visualization.
+
+No identity change.
+
+No morphing.
+
+No random particle explosion.
+
+No disappearance of spheres.
+
+No sudden vector relocation.
+
+No changing camera perspective.
+
+Maintain exact frame-to-frame spatial registration.
+
+VISUAL STYLE: Photorealistic humans + high-end CFD-style vector visualization + 3D scanning + spherical computational geometry + cinematic VFX.
+
+Every sphere must have genuine 3D volume, glossy highlights, subtle shadows and depth.
+
+The final effect must look like a scientifically scanned human body converted into a spherical geometric velocity field.
+
+AUDIO: Use realistic cinematic environmental sound and subtle synchronized VFX sound as the spherical points form and vectors activate. No exaggerated cartoon sounds. Add a clean low-frequency activation sound when the large center-of-gravity vector appears.
+
+CRITICAL NEGATIVE REQUIREMENTS: NO face morphing. NO body morphing. NO aging. NO clothing changes. NO random sphere appearance. NO random vector directions. NO floating particles. NO disconnected spheres. NO extra limbs. NO duplicated people. NO sudden transformation. NO teleportation. NO camera jump. NO frame inconsistency. NO vector originating from the wrong location. NO large vector at the center of the screen. The large resultant vector MUST originate from the approximate center of mass of EACH individual human.
+
+Create video all explaing in tamil
+
+CREATE A 10-SECOND, 4K, ULTRA-PHOTOREALISTIC CINEMATIC MIXED-REALITY VFX VIDEO showing a controlled BEFORE → AFTER spherical-vector analysis of the animals in the supplied/reference composition.
+
+ANIMALS: TORTOISE → SNAIL → OX/BULL → HORSE → ELEPHANT → OSTRICH → CHEETAH.
+
+Preserve each animal's exact anatomical identity and recognizable physical form. Every animal remains a completely separate physical subject.
+
+0.0–2.5 SECONDS — NORMAL PHOTOREALISTIC BEFORE STATE: Show every animal first as a normal, fully opaque, photorealistic three-dimensional animal.
+
+NO spheres. NO vectors. NO particle effects. NO transparency. NO glowing geometry.
+
+Each animal stands or moves naturally according to its intended speed category. Preserve realistic anatomy, correct number of legs, head, torso, tail, ears, horns, trunk, shell, feet and other anatomical structures.
+
+2.5–5.5 SECONDS — SPHERICAL SURFACE SAMPLING: Begin a slow, physically controlled formation of thousands of glossy spherical points directly across each animal's actual surface.
+
+The effect must begin as tiny spherical bulges appearing continuously over the animal's existing surface and progressively cover the complete geometry.
+
+The sequence should visually travel across: head → neck → torso → limbs → feet → tail, while maintaining continuous surface attachment.
+
+For the tortoise, spheres follow the domed shell and limbs. For the snail, spheres follow the spiral shell, body and tentacles. For the ox, spheres follow horns, head, neck, torso and legs. For the horse, spheres follow the muscular body and running limbs. For the elephant, spheres follow the enormous body, trunk, ears and four legs. For the ostrich, spheres follow the long neck, torso, wings and two long legs. For the cheetah, spheres follow the streamlined torso, flexible spine, four legs, paws and tail.
+
+Do NOT randomly spawn spheres at unrelated locations.
+
+Do NOT morph one animal into another.
+
+Do NOT deform anatomy.
+
+5.5–7.5 SECONDS — VECTOR ON EVERY SPHERICAL POINT: After the spherical representation is sufficiently established, assign a small directional velocity vector to EVERY spherical point.
+
+Every vector begins exactly at its corresponding sphere.
+
+YELLOW vectors represent lower/moderate local velocity magnitude.
+
+RED vectors represent higher local velocity magnitude.
+
+Vector length represents magnitude. Vector orientation represents direction.
+
+The vectors must form a coherent velocity field appropriate to each animal's movement.
+
+For running animals, vectors generally follow the animal's forward movement direction while allowing subtle anatomically meaningful differences between body regions.
+
+Do not make all vectors identical.
+
+Do not point vectors randomly backward, sideways or toward the camera.
+
+7.5–9.0 SECONDS — CENTER-OF-MASS RESULTANT VECTOR: For EACH animal, calculate an approximate visual center of mass and place ONE large resultant vector exactly at that location.
+
+The large vector must originate around the central mass of the torso/body, not at the head or feet.
+
+The large vector is significantly larger than the local vectors.
+
+The vector communicates: OVERALL VELOCITY MAGNITUDE = vector length. OVERALL VELOCITY DIRECTION = arrow direction.
+
+Make the animals partially transparent so the viewer can clearly see the center-of-mass position inside the spherical reconstruction.
+
+The large vector must remain attached to the same center-of-mass location throughout the remaining frames.
+
+9.0–10.0 SECONDS — BEFORE/AFTER EDUCATIONAL HOLD: Create a clean visual comparison.
+
+Normal photorealistic animal appearance remains subtly visible as the BEFORE reference.
+
+The final transparent spherical point-grid animal remains clearly visible as the AFTER state.
+
+Maintain sharp spherical geometry, local yellow/red vectors and the large center-of-mass resultant vector.
+
+CAMERA: Locked cinematic camera with smooth controlled movement only. No sudden zooms, no perspective jumps, no cuts that alter spatial registration.
+
+AUDIO: Natural animal/environmental ambience combined with restrained scientific VFX sounds. As the spheres form, use a subtle continuous scanning sound. When the center-of-mass vector activates, use one precise low-impact vector-activation sound.
+
+STYLE: Photorealistic wildlife + computational geometry + 3D scanning + scientific velocity-field visualization + premium cinematic VFX.
+
+CRITICAL NEGATIVE: NO animal morphing. NO species transformation. NO extra legs. NO missing legs. NO duplicate animals. NO random spheres. NO floating spheres. NO random vectors. NO vectors detached from spheres. NO giant vector at the center of the image. NO giant vector from the head. NO giant vector from the feet. NO incorrect center-of-mass location. NO sudden particle explosion. NO excessive glow. NO cartoon appearance. NO frame-to-frame identity changes.
+
+Create video narrative in tamil
+
+CREATE A 10-SECOND, 4K, ULTRA-PHOTOREALISTIC CINEMATIC MIXED-REALITY VFX VIDEO showing multiple real-world vehicles transitioning from a normal BEFORE state into a transparent 3D spherical velocity-field AFTER state.
+
+VEHICLES:
+
+Platina-style commuter motorcycle — use the supplied motorcycle reference as the STRICT identity reference.
+
+Passenger car / Jeep-type vehicle.
+
+Traditional bullock cart with bull/ox.
+
+Tamil Nadu heavy lorry/truck.
+
+Tamil Nadu State Transport Corporation (TNSTC-style) public bus.
+
+IMPORTANT MOTORCYCLE IDENTITY: Preserve the supplied motorcycle exactly. Preserve its current/reference paint color, frame, fuel tank, engine, seat, wheels, spokes, fork, handlebar, headlamp, mirrors, exhaust, suspension and proportions.
+
+DO NOT turn it into the previous mint-green scooter. DO NOT create a scooter. DO NOT add a step-through floorboard.
+
+0.0–2.5 SECONDS — NORMAL BEFORE STATE: Show all vehicles as completely normal, opaque, photorealistic real-world objects.
+
+No spheres. No vectors. No transparency. No particles. No VFX overlay.
+
+The motorcycle remains a conventional commuter motorcycle. The car/Jeep remains a real vehicle. The bullock cart remains a traditional cart physically connected to the ox/bull. The lorry remains a realistic heavy truck. The TNSTC-style bus remains a recognizable Tamil Nadu public-transport bus.
+
+All wheels, windows, body panels, chassis, engine components, axles and mechanical connections remain physically correct.
+
+2.5–5.5 SECONDS — SPHERICAL GEOMETRIC BUILD-UP: Begin a gradual surface-sampling effect.
+
+Tiny glossy spherical points slowly bulge outward directly from the actual surfaces of every vehicle.
+
+The spheres progressively cover: body panels → wheels → engine → chassis → windows → frame → mechanical components.
+
+For the motorcycle, carefully preserve the fuel tank, engine, exhaust, wheels, spokes, seat, fork and frame.
+
+For the car/Jeep, preserve body shell, four wheels, windows, roof, hood, doors and chassis.
+
+For the bullock cart, preserve wooden body, wheels, axle, shafts, yoke and the physically connected ox.
+
+For the lorry, preserve cab, cargo body, wheels, chassis, grille and mechanical components.
+
+For the TNSTC-style bus, preserve long bus body, windows, doors, wheels, roof, front/rear structure and chassis.
+
+The spherical points must remain attached to the true 3D geometry.
+
+5.5–7.5 SECONDS — VECTOR ASSIGNMENT TO EVERY SPHERE: Once the spherical representation is established, assign one small directional velocity vector to EVERY individual spherical point.
+
+YELLOW = lower/moderate local velocity magnitude. RED = higher local velocity magnitude.
+
+Each vector originates exactly at its sphere.
+
+Vector length = local velocity magnitude. Vector direction = local velocity direction.
+
+Vectors must follow a coherent forward velocity field based on each vehicle's movement direction.
+
+For rotating wheels, show appropriate local directional/vector behavior around the wheel geometry while preserving the overall forward motion of the vehicle.
+
+Do not create random vector directions.
+
+Do not make vectors appear detached.
+
+Do not create vectors floating in the background.
+
+7.5–9.0 SECONDS — CENTER-OF-MASS RESULTANT VECTOR: For EACH complete vehicle, place ONE large, highly visible resultant velocity vector at its approximate CENTER OF MASS.
+
+The large vector must be physically anchored approximately inside the central mass of the vehicle: motorcycle → central frame/engine region. car/Jeep → central body/chassis region. bullock cart system → approximate combined moving mass region, while keeping the animal and cart physically separate. lorry → central chassis/cargo mass region. bus → central body/chassis mass region.
+
+The large vector must NOT be placed at the center of the screen.
+
+It must NOT originate from a wheel, headlamp, roof edge or arbitrary empty space.
+
+The large vector represents the overall translational velocity of the complete moving system.
+
+VECTOR LENGTH = MAGNITUDE. VECTOR ORIENTATION = DIRECTION.
+
+Make the vehicle partially transparent so the large vector is clearly visible inside the spherical point reconstruction.
+
+9.0–10.0 SECONDS — FINAL BEFORE/AFTER HOLD: Show a strong educational before-and-after state.
+
+Normal photorealistic vehicle appearance remains visible as the BEFORE reference.
+
+Transparent spherical reconstruction with thousands of shiny spheres, individual yellow/red vectors and one dominant center-of-mass resultant vector represents the AFTER state.
+
+Maintain exact object identity, dimensions, color and position.
+
+CAMERA: Use a stable cinematic three-dimensional camera. Maintain identical spatial registration throughout the entire 10-second sequence. No random camera cuts. No sudden perspective changes. No object repositioning.
+
+VFX: Realistic mixed-reality integration. Spheres must have physical volume, reflections, specular highlights, ambient occlusion and accurate attachment to surfaces.
+
+AUDIO: Use realistic engine/road/environmental sound corresponding to the vehicles, combined with restrained scientific scanning/VFX audio. As spherical points appear, use a smooth rising scanning sound. When the large center-of-mass vector activates, use a precise synchronized vector activation sound.
+
+FINAL VISUAL TARGET: REAL VEHICLE → CONTROLLED SPHERICAL SURFACE SAMPLING → EVERY POINT HAS A VECTOR → TRANSPARENT 3D VELOCITY FIELD → LARGE CENTER-OF-MASS RESULTANT VECTOR.
+
+CRITICAL NEGATIVE: NO scooter. NO mint-green scooter. NO motorcycle identity change. NO vehicle morphing. NO vehicle-to-vehicle transformation. NO random spheres. NO floating spheres. NO random vectors. NO detached vectors. NO vectors appearing suddenly at unrelated locations. NO giant vector at the image center. NO incorrect center-of-mass placement. NO disappearing wheels. NO extra wheels. NO broken chassis. NO disconnected bullock cart. NO disconnected ox. NO distorted lorry. NO distorted TNSTC-style bus. NO duplicate vehicles. NO excessive motion blur. NO particle explosion. NO frame-to-frame inconsistency. NO camera jump. NO changing vehicle colors. NO cartoon styling. NO fantasy vehicles.
+
+Create video narrative in tamil create video
+
+CREATE A 10-SECOND, 4K, ULTRA-PHOTOREALISTIC CINEMATIC MIXED-REALITY VFX VIDEO, 16:9, 60 FPS, using the uploaded reference image as the STRICT, UNCHANGING IDENTITY REFERENCE for the three Tamil men.
+
+SUBJECTS:
+
+Bulky Tamil man wearing a BLUE CHECKED SHIRT.
+
+Bulky Tamil man wearing a BLACK CHECKED SHIRT.
+
+Smart/normal Tamil man wearing a GREEN SHIRT.
+
+IDENTITY PRESERVATION IS ABSOLUTE: Preserve the exact faces, skin tone, hairstyle, body proportions, clothing, shirt colors, facial structure, age appearance, height relationship, body shape and positions from the reference. Do not morph, age, slim, enlarge, replace, or redesign any person. The blue-shirt man remains the same person and same position throughout. The black-checked-shirt man remains the same person and same position throughout. The green-shirt man remains the same person and same position throughout.
+
+0.0–2.5 SECONDS — NORMAL REAL-WORLD BEFORE STATE: Show all three men standing naturally in a realistic environment as ordinary photorealistic humans. NO spheres, NO vectors, NO particles, NO glowing effects, NO transparency. Clothing, skin and facial details must look completely natural. Camera remains stable and cinematic. This is the baseline BEFORE frame.
+
+2.5–5.5 SECONDS — CONTROLLED SPHERICAL POINT-GRID FORMATION: Very gradually begin converting the visible human bodies into dense three-dimensional spherical surface samples.
+
+The transformation must begin simultaneously but smoothly across the actual visible body surfaces. Do NOT make random vectors or spheres suddenly appear in isolated body parts.
+
+Thousands of small glossy spheres progressively form directly ON the existing geometry: head → face → neck → shoulders → chest → arms → hands → abdomen → legs → feet.
+
+The spheres must follow the real three-dimensional surface of each man's body and clothing. Skin-colored spheres follow exposed skin. Blue spheres follow the blue checked shirt. Black/dark spheres follow the black checked shirt. Green spheres follow the green shirt. Pants and shoes retain their corresponding colors.
+
+The original person must remain visually recognizable during the transition. No body morphing. No melting. No duplicate limbs. No floating particles.
+
+5.5–7.5 SECONDS — LOCAL VECTOR FIELD: Once the spherical surface is established, assign a small VECTOR to EVERY individual spherical point.
+
+Each sphere receives a thin directional vector originating exactly from that sphere and extending outward in the locally appropriate movement direction.
+
+Use: YELLOW = local lower/mid-magnitude vectors. RED = stronger/higher-magnitude vectors.
+
+Vectors must have clear arrowheads, visible direction, controlled thickness and physically coherent orientation.
+
+The vectors must NOT randomly point in every direction. They must represent a coherent velocity field associated with the person's movement.
+
+The spherical points remain shiny and three-dimensional. The men remain recognizable underneath the transparent point-grid representation.
+
+7.5–9.0 SECONDS — CENTER-OF-GRAVITY RESULTANT VECTOR: At the approximate CENTER OF MASS / CENTER OF GRAVITY of EACH man's body, create ONE clearly visible, significantly larger resultant velocity vector.
+
+The large vector must originate from the actual central body region, approximately around the torso/pelvic center of mass, NOT from the head, hands, feet, or an arbitrary screen position.
+
+The large vector must show: MAGNITUDE = vector length. DIRECTION = arrow orientation. It must visually summarize the overall velocity of that complete human body.
+
+Make the large resultant vector brighter and visually dominant while keeping the smaller vectors visible.
+
+The men become slightly transparent so the viewer can clearly see the spherical body structure and the large center-of-gravity vector through the body.
+
+9.0–10.0 SECONDS — FINAL COMPARISON HOLD: Hold a clean BEFORE → AFTER comparison composition.
+
+Show the original photorealistic appearance subtly visible behind/alongside the final transparent spherical reconstruction, creating an educational before-and-after visualization.
+
+No identity change.
+
+No morphing.
+
+No random particle explosion.
+
+No disappearance of spheres.
+
+No sudden vector relocation.
+
+No changing camera perspective.
+
+Maintain exact frame-to-frame spatial registration.
+
+VISUAL STYLE: Photorealistic humans + high-end CFD-style vector visualization + 3D scanning + spherical computational geometry + cinematic VFX.
+
+Every sphere must have genuine 3D volume, glossy highlights, subtle shadows and depth.
+
+The final effect must look like a scientifically scanned human body converted into a spherical geometric velocity field.
+
+AUDIO: Use realistic cinematic environmental sound and subtle synchronized VFX sound as the spherical points form and vectors activate. No exaggerated cartoon sounds. Add a clean low-frequency activation sound when the large center-of-gravity vector appears.
+
+CRITICAL NEGATIVE REQUIREMENTS: NO face morphing. NO body morphing. NO aging. NO clothing changes. NO random sphere appearance. NO random vector directions. NO floating particles. NO disconnected spheres. NO extra limbs. NO duplicated people. NO sudden transformation. NO teleportation. NO camera jump. NO frame inconsistency. NO vector originating from the wrong location. NO large vector at the center of the screen. The large resultant vector MUST originate from the approximate center of mass of EACH individual human.
+
+Create video all explaing in tamil
+
+CREATE A 10-SECOND, 4K, ULTRA-PHOTOREALISTIC CINEMATIC MIXED-REALITY VFX VIDEO showing a controlled BEFORE → AFTER spherical-vector analysis of the animals in the supplied/reference composition.
+
+ANIMALS: TORTOISE → SNAIL → OX/BULL → HORSE → ELEPHANT → OSTRICH → CHEETAH.
+
+Preserve each animal's exact anatomical identity and recognizable physical form. Every animal remains a completely separate physical subject.
+
+0.0–2.5 SECONDS — NORMAL PHOTOREALISTIC BEFORE STATE: Show every animal first as a normal, fully opaque, photorealistic three-dimensional animal.
+
+NO spheres. NO vectors. NO particle effects. NO transparency. NO glowing geometry.
+
+Each animal stands or moves naturally according to its intended speed category. Preserve realistic anatomy, correct number of legs, head, torso, tail, ears, horns, trunk, shell, feet and other anatomical structures.
+
+2.5–5.5 SECONDS — SPHERICAL SURFACE SAMPLING: Begin a slow, physically controlled formation of thousands of glossy spherical points directly across each animal's actual surface.
+
+The effect must begin as tiny spherical bulges appearing continuously over the animal's existing surface and progressively cover the complete geometry.
+
+The sequence should visually travel across: head → neck → torso → limbs → feet → tail, while maintaining continuous surface attachment.
+
+For the tortoise, spheres follow the domed shell and limbs. For the snail, spheres follow the spiral shell, body and tentacles. For the ox, spheres follow horns, head, neck, torso and legs. For the horse, spheres follow the muscular body and running limbs. For the elephant, spheres follow the enormous body, trunk, ears and four legs. For the ostrich, spheres follow the long neck, torso, wings and two long legs. For the cheetah, spheres follow the streamlined torso, flexible spine, four legs, paws and tail.
+
+Do NOT randomly spawn spheres at unrelated locations.
+
+Do NOT morph one animal into another.
+
+Do NOT deform anatomy.
+
+5.5–7.5 SECONDS — VECTOR ON EVERY SPHERICAL POINT: After the spherical representation is sufficiently established, assign a small directional velocity vector to EVERY spherical point.
+
+Every vector begins exactly at its corresponding sphere.
+
+YELLOW vectors represent lower/moderate local velocity magnitude.
+
+RED vectors represent higher local velocity magnitude.
+
+Vector length represents magnitude. Vector orientation represents direction.
+
+The vectors must form a coherent velocity field appropriate to each animal's movement.
+
+For running animals, vectors generally follow the animal's forward movement direction while allowing subtle anatomically meaningful differences between body regions.
+
+Do not make all vectors identical.
+
+Do not point vectors randomly backward, sideways or toward the camera.
+
+7.5–9.0 SECONDS — CENTER-OF-MASS RESULTANT VECTOR: For EACH animal, calculate an approximate visual center of mass and place ONE large resultant vector exactly at that location.
+
+The large vector must originate around the central mass of the torso/body, not at the head or feet.
+
+The large vector is significantly larger than the local vectors.
+
+The vector communicates: OVERALL VELOCITY MAGNITUDE = vector length. OVERALL VELOCITY DIRECTION = arrow direction.
+
+Make the animals partially transparent so the viewer can clearly see the center-of-mass position inside the spherical reconstruction.
+
+The large vector must remain attached to the same center-of-mass location throughout the remaining frames.
+
+9.0–10.0 SECONDS — BEFORE/AFTER EDUCATIONAL HOLD: Create a clean visual comparison.
+
+Normal photorealistic animal appearance remains subtly visible as the BEFORE reference.
+
+The final transparent spherical point-grid animal remains clearly visible as the AFTER state.
+
+Maintain sharp spherical geometry, local yellow/red vectors and the large center-of-mass resultant vector.
+
+CAMERA: Locked cinematic camera with smooth controlled movement only. No sudden zooms, no perspective jumps, no cuts that alter spatial registration.
+
+AUDIO: Natural animal/environmental ambience combined with restrained scientific VFX sounds. As the spheres form, use a subtle continuous scanning sound. When the center-of-mass vector activates, use one precise low-impact vector-activation sound.
+
+STYLE: Photorealistic wildlife + computational geometry + 3D scanning + scientific velocity-field visualization + premium cinematic VFX.
+
+CRITICAL NEGATIVE: NO animal morphing. NO species transformation. NO extra legs. NO missing legs. NO duplicate animals. NO random spheres. NO floating spheres. NO random vectors. NO vectors detached from spheres. NO giant vector at the center of the image. NO giant vector from the head. NO giant vector from the feet. NO incorrect center-of-mass location. NO sudden particle explosion. NO excessive glow. NO cartoon appearance. NO frame-to-frame identity changes.
+
+Create video narrative in tamil
+
+CREATE A 10-SECOND, 4K, ULTRA-PHOTOREALISTIC CINEMATIC MIXED-REALITY VFX VIDEO showing multiple real-world vehicles transitioning from a normal BEFORE state into a transparent 3D spherical velocity-field AFTER state.
+
+VEHICLES:
+
+Platina-style commuter motorcycle — use the supplied motorcycle reference as the STRICT identity reference.
+
+Passenger car / Jeep-type vehicle.
+
+Traditional bullock cart with bull/ox.
+
+Tamil Nadu heavy lorry/truck.
+
+Tamil Nadu State Transport Corporation (TNSTC-style) public bus.
+
+IMPORTANT MOTORCYCLE IDENTITY: Preserve the supplied motorcycle exactly. Preserve its current/reference paint color, frame, fuel tank, engine, seat, wheels, spokes, fork, handlebar, headlamp, mirrors, exhaust, suspension and proportions.
+
+DO NOT turn it into the previous mint-green scooter. DO NOT create a scooter. DO NOT add a step-through floorboard.
+
+0.0–2.5 SECONDS — NORMAL BEFORE STATE: Show all vehicles as completely normal, opaque, photorealistic real-world objects.
+
+No spheres. No vectors. No transparency. No particles. No VFX overlay.
+
+The motorcycle remains a conventional commuter motorcycle. The car/Jeep remains a real vehicle. The bullock cart remains a traditional cart physically connected to the ox/bull. The lorry remains a realistic heavy truck. The TNSTC-style bus remains a recognizable Tamil Nadu public-transport bus.
+
+All wheels, windows, body panels, chassis, engine components, axles and mechanical connections remain physically correct.
+
+2.5–5.5 SECONDS — SPHERICAL GEOMETRIC BUILD-UP: Begin a gradual surface-sampling effect.
+
+Tiny glossy spherical points slowly bulge outward directly from the actual surfaces of every vehicle.
+
+The spheres progressively cover: body panels → wheels → engine → chassis → windows → frame → mechanical components.
+
+For the motorcycle, carefully preserve the fuel tank, engine, exhaust, wheels, spokes, seat, fork and frame.
+
+For the car/Jeep, preserve body shell, four wheels, windows, roof, hood, doors and chassis.
+
+For the bullock cart, preserve wooden body, wheels, axle, shafts, yoke and the physically connected ox.
+
+For the lorry, preserve cab, cargo body, wheels, chassis, grille and mechanical components.
+
+For the TNSTC-style bus, preserve long bus body, windows, doors, wheels, roof, front/rear structure and chassis.
+
+The spherical points must remain attached to the true 3D geometry.
+
+5.5–7.5 SECONDS — VECTOR ASSIGNMENT TO EVERY SPHERE: Once the spherical representation is established, assign one small directional velocity vector to EVERY individual spherical point.
+
+YELLOW = lower/moderate local velocity magnitude. RED = higher local velocity magnitude.
+
+Each vector originates exactly at its sphere.
+
+Vector length = local velocity magnitude. Vector direction = local velocity direction.
+
+Vectors must follow a coherent forward velocity field based on each vehicle's movement direction.
+
+For rotating wheels, show appropriate local directional/vector behavior around the wheel geometry while preserving the overall forward motion of the vehicle.
+
+Do not create random vector directions.
+
+Do not make vectors appear detached.
+
+Do not create vectors floating in the background.
+
+7.5–9.0 SECONDS — CENTER-OF-MASS RESULTANT VECTOR: For EACH complete vehicle, place ONE large, highly visible resultant velocity vector at its approximate CENTER OF MASS.
+
+The large vector must be physically anchored approximately inside the central mass of the vehicle: motorcycle → central frame/engine region. car/Jeep → central body/chassis region. bullock cart system → approximate combined moving mass region, while keeping the animal and cart physically separate. lorry → central chassis/cargo mass region. bus → central body/chassis mass region.
+
+The large vector must NOT be placed at the center of the screen.
+
+It must NOT originate from a wheel, headlamp, roof edge or arbitrary empty space.
+
+The large vector represents the overall translational velocity of the complete moving system.
+
+VECTOR LENGTH = MAGNITUDE. VECTOR ORIENTATION = DIRECTION.
+
+Make the vehicle partially transparent so the large vector is clearly visible inside the spherical point reconstruction.
+
+9.0–10.0 SECONDS — FINAL BEFORE/AFTER HOLD: Show a strong educational before-and-after state.
+
+Normal photorealistic vehicle appearance remains visible as the BEFORE reference.
+
+Transparent spherical reconstruction with thousands of shiny spheres, individual yellow/red vectors and one dominant center-of-mass resultant vector represents the AFTER state.
+
+Maintain exact object identity, dimensions, color and position.
+
+CAMERA: Use a stable cinematic three-dimensional camera. Maintain identical spatial registration throughout the entire 10-second sequence. No random camera cuts. No sudden perspective changes. No object repositioning.
+
+VFX: Realistic mixed-reality integration. Spheres must have physical volume, reflections, specular highlights, ambient occlusion and accurate attachment to surfaces.
+
+AUDIO: Use realistic engine/road/environmental sound corresponding to the vehicles, combined with restrained scientific scanning/VFX audio. As spherical points appear, use a smooth rising scanning sound. When the large center-of-mass vector activates, use a precise synchronized vector activation sound.
+
+FINAL VISUAL TARGET: REAL VEHICLE → CONTROLLED SPHERICAL SURFACE SAMPLING → EVERY POINT HAS A VECTOR → TRANSPARENT 3D VELOCITY FIELD → LARGE CENTER-OF-MASS RESULTANT VECTOR.
+
+CRITICAL NEGATIVE: NO scooter. NO mint-green scooter. NO motorcycle identity change. NO vehicle morphing. NO vehicle-to-vehicle transformation. NO random spheres. NO floating spheres. NO random vectors. NO detached vectors. NO vectors appearing suddenly at unrelated locations. NO giant vector at the image center. NO incorrect center-of-mass placement. NO disappearing wheels. NO extra wheels. NO broken chassis. NO disconnected bullock cart. NO disconnected ox. NO distorted lorry. NO distorted TNSTC-style bus. NO duplicate vehicles. NO excessive motion blur. NO particle explosion. NO frame-to-frame inconsistency. NO camera jump. NO changing vehicle colors. NO cartoon styling. NO fantasy vehicles.
+
+Create video narrative in tamil create video
